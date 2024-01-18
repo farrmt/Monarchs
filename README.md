@@ -2,7 +2,7 @@
 
 ### [Matthew T. Farr](https://farrmt.github.io/), [Erin R. Zylstra](https://erinzylstra.weebly.com/), [Leslie Ries](https://www.butterflyinformatics.org/), & [Elise F. Zipkin](https://zipkinlab.org/)
 
-### *In Review*
+### Methods in Ecology and Evolution
 
 ### Code/Data DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8433370.svg)](https://doi.org/10.5281/zenodo.8433370)
 
